@@ -1,2 +1,3 @@
 # kaggle-noshow-analysis
-Udacity project 2: "Explore a dataset"
+Udacity Data Analyst Nanodegree Project 2: "Explore a Dataset"
+Analysis for the Kaggle No-show-appointments dataset.
